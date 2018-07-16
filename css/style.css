@@ -1,0 +1,77 @@
+.margin-header {
+	margin: 20px 0 0 0;
+}
+
+.img-circle {
+    border-radius: 50%;
+    width: auto;
+    height: auto;
+    float: left;
+}
+
+hr {
+	border: 3px solid #7d97ad;
+}
+
+h1 {
+    text-align: right;
+}
+
+h2, h4 {
+    text-transform: uppercase;
+	color: #02b3e4;
+	text-align: right;
+}
+
+.main-img {
+	max-width: 100%;
+	height: auto;
+}
+
+.align-right {
+	text-align: right;
+	font-size: 60px;
+    margin-top: 40px;
+}
+
+.align-left {
+	text-align: left;
+	color: #02b3e4;
+}
+
+.margin-img {
+	margin: 15px 0;
+}
+
+.work-img {
+	width: 100%;
+	height: auto; 
+}
+
+.img-caption {
+	margin-top: 10px;
+	font-size: 20px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.header-uppercase {
+	text-transform: uppercase;
+}
+
+.link-align {
+	text-align: center;
+}
+
+.drop-shadow {
+     box-shadow: 0 0 5px 2px #7d97ad;
+    transition: all 0.4s  cubic-bezier(0.88,-0.99, 0, 1.81);
+	cursor: default;
+	border-radius: 10px;
+}
+
+.img-responsive {
+  display: block;
+  height: auto;
+  width: 100%;
+}
